@@ -35,6 +35,7 @@ To get started with PPT Control Using Hand Gesture, follow these steps:
      ```
    - The webcam feed will open, and the hand gesture detection will begin.
    - Perform the supported hand gestures in front of the webcam to control the PowerPoint presentation.
+   - Please Make sure to change the PPT Path you want to open in code.py file
 
 
 ## Contributing
